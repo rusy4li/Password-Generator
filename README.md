@@ -2,4 +2,4 @@
 
 -> Bu password oluşturucu ile sadece size özgü, özel ve güçlü şifre oluşturabilirsiniz.
 
-- Tek seferde istediğiniz kadar oluşturabilirsiniz.
+- Tek seferde istediğiniz kadar parola oluşturabilirsiniz.
