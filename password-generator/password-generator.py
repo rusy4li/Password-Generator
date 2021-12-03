@@ -38,7 +38,6 @@ if "E" == sorgu:
     s = int(input("Kaç tane parola oluşturmak istiyorsunuz: "))
     os.remove("words.txt")
     while a < s:
-
         file = open("words.txt", "a", encoding='utf-8')
         file.write(parolaolusturucu() + "\n")
         file.close()
